@@ -1,0 +1,35 @@
+total 1005416
+drwxr-xr-x+  6 yanrui  staff        192  8 23  2014 Public
+-rwxr-xr-x@  1 yanrui  staff      73728 10 24  2014 Thumbs.db
+drwx------   3 yanrui  staff         96 10 13  2015 Applications
+drwxr-xr-x  28 yanrui  staff        896 11 11  2015 A计划
+drwxr-xr-x@  6 yanrui  staff        192  1 12  2016 百度云同步盘
+drwxr-xr-x+ 10 yanrui  staff        320  2 21  2016 Movies
+drwxr-xr-x   8 yanrui  staff        256  3 16  2016 极客DIY
+drwxr-xr-x   5 yanrui  staff        160  9 28  2016 MyAPP
+-rw-r--r--   1 yanrui  staff    1595408 11  7  2016 get-pip.py
+drwxr-xr-x   6 yanrui  staff        192  4 19  2017 阅读中
+-rw-r--r--   1 yanrui  staff         42  6  5  2017 ip.cfg
+drwxr-xr-x  11 yanrui  staff        352  6  6  2017 信息事业部
+drwxr-xr-x+ 11 yanrui  staff        352  8 21 14:11 Music
+drwx------   3 yanrui  staff         96 10 12 20:29 VirtualBox VMs
+drwxr-xr-x  17 yanrui  staff        544 11  2 15:17 MBA
+drwxr-xr-x@  5 yanrui  staff        160 11 14 18:06 Desktop
+lrwxr-xr-x   1 yanrui  staff         21 11 22 13:35 src -> /usr/local/go/bin/src
+drwxr-xr-x   3 yanrui  staff         96 11 22 13:40 oradiag_yanrui
+drwxr-xr-x   5 yanrui  staff        160 12 26 10:21 go
+drwxr-xr-x  15 yanrui  staff        480 12 29 13:41 workspace
+-rw-r--r--   1 yanrui  staff       2351  1  2 19:29 soapui-settings.xml
+-rw-r--r--   1 yanrui  staff        187  1  2 19:29 default-soapui-workspace.xml
+-rw-r--r--   1 yanrui  staff       4745  1  4 20:11 pgadmin.log
+drwxr-xr-x   5 yanrui  staff        160  1  4 20:42 Data
+-rw-------   1 yanrui  staff      20712  1  8 04:05 logfile
+drwxr-xr-x   6 yanrui  staff        192  1  8 09:52 Nutstore
+drwxr-xr-x@ 18 yanrui  staff        576  1 21 23:45 Documents
+drwxr-xr-x   4 yanrui  staff        128  1 24 15:39 Nustore Files
+drwxr-xr-x+ 35 yanrui  staff       1120  1 26 10:01 Pictures
+drwx------@ 94 yanrui  staff       3008  2  5 09:12 Library
+drwxr-xr-x  10 yanrui  staff        320  2  6 17:14 project-third
+drwxr-xr-x+ 37 yanrui  staff       1184  2  8 11:12 Downloads
+-rw-r--r--@  1 yanrui  staff  513056256  2  9 09:33 保密局.dmg
+drwxr-xr-x  75 yanrui  staff       2400  2  9 11:42 project
